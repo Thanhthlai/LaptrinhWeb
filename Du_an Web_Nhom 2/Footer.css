@@ -1,0 +1,48 @@
+.footer{
+    background-color:rgba(147, 14, 14, 0.674);
+    color:black;
+    padding:50px 0;
+}
+.area{
+    width:100%;
+    margin:0 auto;
+}
+.row{
+    display:flex;
+    flex-wrap:wrap;
+}
+.info{
+    width:33.33%;
+    padding:0 15px;
+}
+h3{
+    font-size: 20px;
+    margin-bottom: 20px; 
+}
+p{
+    font-size: 16px;
+    line-height: 1.6;
+}
+ul {
+    list-style: none;
+    padding-left:50px;
+}
+
+ul li {
+    margin-bottom: 10px;
+    padding-right: 10px;
+
+}
+
+a {
+    color: #cc1515;
+    text-decoration: none;
+}
+
+.copy-right {
+    margin-top: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
